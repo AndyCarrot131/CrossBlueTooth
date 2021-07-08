@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245502556036",
+    "project_id": "crossbluetooth-286cd",
+    "storage_bucket": "crossbluetooth-286cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245502556036:android:4eb35076507efaed4acfd1",
+        "android_client_info": {
+          "package_name": "com.example.crossbluetooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245502556036-4e1b1f0ppt9qj6d4fgmec6tgum8u6lt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_Gqc5rltTWympahd3TuHzTKIMZkeBaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245502556036-4e1b1f0ppt9qj6d4fgmec6tgum8u6lt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
